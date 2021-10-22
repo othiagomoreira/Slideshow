@@ -23,8 +23,6 @@ header {
     
     display: flex;
     transition: all ease 0.3s;
-
-    width: calc(100vw * 3);
 }
 .slider--item {
     width: 100vw;
@@ -41,7 +39,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100%;
 }
 .slider--control {
     width: 50px;
